@@ -1,0 +1,1 @@
+0x00-shell_basics" is likely a reference to a tutorial or course module on foundational shell (Bash) scripting concepts within a DevOps context, covering essential command-line operations and automation techniques
